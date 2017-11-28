@@ -1,0 +1,13 @@
+{
+    "name": "1020141277/demo",
+    "description": "demo",
+    "type": "project",
+    "license": "0.1",
+    "authors": [
+        {
+            "name": "lgp",
+            "email": "1020141277@qq.com"
+        }
+    ],
+    "require": {}
+}
